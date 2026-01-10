@@ -90,4 +90,9 @@ Now your setup is ready.
 
 ## Screenshots
 
-![Project Screenshot 1]()
+**Entry Interface**
+![Project Screenshot 1](images/entry.png)
+
+**Working**
+![Project Screenshot 2](images/real.png)
+![Project Screenshot 3](images/fake.png)
