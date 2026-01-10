@@ -1,4 +1,4 @@
-# DeepFake Video Detection
+# Fakeproof: DeepFake Video Detector
 
 ## Overview
 **DeepFake Video Detection** is a web-based application designed to detect whether a given video is **real or deepfake**.  
@@ -54,7 +54,7 @@ This project can be deployed **locally** or on **cloud platforms** with minimal 
 
 ---
 
-# Environment Setup
+## Environment Setup
 
 Make sure Anaconda is installed and launch anaconda prompt and navigate to root directory in the anaconda prompt
 
@@ -85,3 +85,9 @@ python app.py
 Once you see this url - http://127.0.0.1:5000/ in logs, open it in browser.
 
 Now your setup is ready.
+
+---
+
+## Screenshots
+
+![Project Screenshot 1]()
